@@ -1,6 +1,7 @@
 ostonovok = gets.chomp
 a = 0
 array = []
+
 while a < ostonovok.to_i
   n = STDIN.gets.split(" ")
   array << n[0]
@@ -11,6 +12,7 @@ end
 result = []
 prom_result = 0
 x = 0
+
 while x != array.size.to_i
   prom_result = prom_result - array[x].to_i
   result << prom_result
@@ -19,4 +21,5 @@ while x != array.size.to_i
   result << prom_result
   x += 1
 end
+
 puts result.max.to_s

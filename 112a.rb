@@ -15,4 +15,3 @@ else
     puts "1"
   end
 end
-
