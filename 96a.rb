@@ -1,3 +1,4 @@
+#условия задачи http://codeforces.com/problemset/problem/96/A
 n = gets.chomp
 if n.scan("1111111").size > 0 || n.scan("0000000").size > 0
   puts "YES"

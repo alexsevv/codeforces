@@ -1,3 +1,4 @@
+#условия задачи http://codeforces.com/problemset/problem/112/A?locale=ru
 n = gets.chomp.downcase
 m = gets.chomp.downcase
 a = 0

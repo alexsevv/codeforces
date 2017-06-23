@@ -1,3 +1,4 @@
+#условия задачи http://codeforces.com/problemset/problem/1/A
 n = gets.to_i
 m = gets.to_i
 a = gets.to_i

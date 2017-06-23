@@ -1,3 +1,4 @@
+#условия задачи http://codeforces.com/problemset/problem/116/A
 ostonovok = gets.chomp
 a = 0
 array = []

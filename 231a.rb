@@ -1,3 +1,4 @@
+#условия задачи http://codeforces.com/problemset/problem/231/A
 task = gets.chomp
 a = 0
 array = []
